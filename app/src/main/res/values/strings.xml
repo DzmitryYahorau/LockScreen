@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+    <string name="enter_password">Password</string>
+    <string name="notification_content_text">content</string>
+    <string name="dialog_text">Enter correct password to unlock device.</string>
+    <string name="text">You should enter correct password in field bellow to unlock device.</string>
+</resources>
